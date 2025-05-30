@@ -24,3 +24,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/python-mini-projects.git
 cd python-mini-projects
+
+## Screenshot
+
+![To-Do App Screenshot](todo-output.png)
