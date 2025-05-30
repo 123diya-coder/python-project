@@ -1,26 +1,24 @@
-# 🐍 Python Mini Projects
+# ✅ To-Do List App in Python
 
-Welcome to my collection of beginner-friendly **Python mini projects**!  
-These projects are designed to improve your programming logic and build confidence in Python.  
-Great for students, beginners, and open-source contributors. 🚀
-
----
-
-## 📁 Projects Included
-
-| Project Name             | Description                                         |
-|--------------------------|-----------------------------------------------------|
-| 🧮 Calculator             | Simple arithmetic calculator with basic operations |
-| ✅ To-Do List             | Add and view tasks interactively                   |
-| 🎯 Number Guessing Game  | Random number guessing with hints                  |
-| ⚖️ BMI Calculator         | Calculate and categorize your Body Mass Index     |
+This is a beginner-friendly command-line To-Do App built using Python.  
+It helps you manage your daily tasks efficiently from your terminal. 💻🗒️
 
 ---
 
-## 🛠️ How to Run
+## 🛠️ Tech Stack
+- Python 3.x 🐍
+- File Handling
 
-Clone the repo:
+---
+
+## 📸 Screenshot
+![App Screenshot](screenshot.png)  <!-- Apna screenshot daalna h -->
+
+---
+
+## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/python-mini-projects.git
-cd python-mini-projects
+git clone https://github.com/123diya-coder/python-project.git
+cd python-project/todo
+python todo.py
